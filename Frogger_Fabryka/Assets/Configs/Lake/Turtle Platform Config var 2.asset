@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0061d3228bb54ab4baeb2e98ad1eb213, type: 3}
+  m_Name: Turtle Platform Config var 2
+  m_EditorClassIdentifier: 
+  shortObstPrefab: {fileID: 1405982953998605975, guid: c8610f0d7f8c00047b7a8e75b115e3d3,
+    type: 3}
+  LongObstPrefab: {fileID: 6812901360647500542, guid: 48ffcfcbe30478546b5ea2e8d53fc2e5,
+    type: 3}
+  speedArray:
+  - 0.8
+  - 1.2
+  - 1.4
+  faceLeft: 010101
